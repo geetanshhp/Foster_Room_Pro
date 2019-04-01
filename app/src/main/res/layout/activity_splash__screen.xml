@@ -7,8 +7,9 @@
     tools:context="com.example.geetanshsharma.foster_room.Splash_Screen">
 
     <ImageView
+        android:scaleType="fitXY"
         android:layout_width="match_parent"
-        android:src="@drawable/splash"
+        android:src="@drawable/splashscreen"
         android:layout_height="match_parent" />
 
 </LinearLayout>

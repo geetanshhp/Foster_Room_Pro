@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/aabout_us"
+        android:title="About Us"
+        android:icon="@drawable/people"
+        android:orderInCategory="1">
+    </item>
+
+    <item android:id="@+id/id_get_help"
+        android:title="Get Help"
+        android:icon="@drawable/help"
+        android:orderInCategory="4">
+    </item>
+
+    <item android:id="@+id/id_notification"
+        android:title="Notification"
+        android:icon="@drawable/noti"
+        android:orderInCategory="2">
+
+    </item>
+
+    <item android:id="@+id/feedback"
+        android:title="Give us feedback"
+        android:icon="@drawable/feed"
+        android:orderInCategory="3">
+    </item>
+
+</menu>
