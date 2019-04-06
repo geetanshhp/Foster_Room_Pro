@@ -27,4 +27,16 @@
         android:orderInCategory="3">
     </item>
 
+    <item android:id="@+id/saved"
+        android:title="Saved"
+        android:icon="@drawable/savedd"
+        android:orderInCategory="3">
+    </item>
+    <item android:id="@+id/booking"
+        android:title="booking"
+        android:icon="@drawable/booking"
+        android:orderInCategory="3">
+    </item>
+
+
 </menu>
